@@ -1,0 +1,17 @@
+/* #contents {
+    clear: both;			
+  } */
+
+.contents {
+    background-color: #212121;
+    border: 50%;
+    border: 5px solid white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}

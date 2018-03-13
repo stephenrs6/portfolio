@@ -4,6 +4,11 @@ h1 {
     color: white;
 }
 
+.container{
+    margin-bottom: 25px;
+}
+
+
 #avatar {
     /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
     background-image: url('/assets/images/avatar.jpg');

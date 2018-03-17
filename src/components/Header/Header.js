@@ -6,6 +6,7 @@ const Header = (props) => (
         <h1 className="col s8">Stephen Sung</h1>
         <div className="col s4" id="avatar"></div>
         
+
     </div>
 );
 

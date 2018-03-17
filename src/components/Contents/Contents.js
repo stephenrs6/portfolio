@@ -1,18 +1,44 @@
 import React from "react";
+import { Route, NavLink, HashRouter } from "react-router-dom";
 import "./Contents.css";
+import About from "./About";
+import Skills from "./Skills";
+import Projects from "./Projects";
+import Interests from "./Interests";
+import Resume from "./Resume";
 
 const Contents = (props) => (
-    <div className="container contents">
-        <h4>About Me:</h4>
-        <p className="flow-text">I am a technology enthusiast and creative problem solver who is currently immersed in the art of Web Development. 
-        I utilize my knowledge of human-computer interactions to design User Interfaces that come intuitively for the end user.
-        I'm able to build complex websites with full database back-end all the way from mock-up to roll-out. 
-        <br></br>
-        <br></br>
-        I have recently completed UC San Diego Extension's Full Stack Web Development program and aim to obtain a junior Web Developer position. 
-        I obtained my Bachelor's in Psychology from UC San Diego, making me a dynamic collaborator knowledgable of the human condition, and adept at working in diverse teams. 
-        I'm also proficient in Mandarin Chinese at a native speaker level.</p>
-    </div>
+<HashRouter>
+            <div>
+                <div className ="navbar">
+                    <ul>
+                        <li>
+                            <NavLink to="/">ABOUT</NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/skills">SKILLS</NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/projects">PROJECTS</NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/interests">INTERESTS</NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/resume">RESUME</NavLink>
+                        </li>
+                    </ul>
+                </div>
+                <div className="private-content">
+                    {/* <Route path="/" component={Placeholder} /> */}
+                    <Route path="/" component={About} />
+                    <Route path="/skills" component={Skills} />
+                    <Route path="/projects" component={Projects} />
+                    <Route path="/interests" component={Interests} />
+                    <Route path="/resume" component={Resume} />
+                </div>
+            </div>
+        </HashRouter>
 );
 
 export default Contents;

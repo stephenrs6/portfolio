@@ -1,0 +1,11 @@
+.container .row{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.devicons {
+    text-align: center;
+    margin: auto;
+    width: auto;
+    font-size: 6em;
+}

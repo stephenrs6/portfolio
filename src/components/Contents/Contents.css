@@ -1,7 +1,10 @@
 /* #contents {
     clear: both;			
   } */
-
+.flow-text{
+    font-size: 16px;
+    color: #e0e0e0;
+}
 .contents {
     background-color: #212121;
     padding-left: 10px;
@@ -10,9 +13,18 @@
 }
 
 h4 {
-    color: white;
+    color: #e0e0e0 ;
 }
 
 p {
-    color: white;
+    color: #e0e0e0 ;
+}
+a {
+    color: #e0e0e0;
+}
+
+.navbar {
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }

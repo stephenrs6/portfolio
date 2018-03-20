@@ -10,9 +10,8 @@ class Skills extends Component {
     };
     render() {
         return (
-
             <div className="devicons">
-                <h4>Technologies and Tools utilized:</h4>                
+                <h4>Technologies & Tools utilized:</h4>
                 <i class="devicon-git-plain colored"></i>
                 <i class="devicon-html5-plain-wordmark colored"></i>
                 <i class="devicon-javascript-plain colored"></i>

@@ -13,7 +13,7 @@ const Contents = (props) => (
                 <div className ="navbar">
                     <ul>
                         <li>
-                            <NavLink to="/">ABOUT</NavLink>
+                            <NavLink to="/about">ABOUT</NavLink>
                         </li>
                         <li>
                             <NavLink to="/skills">SKILLS</NavLink>
@@ -31,7 +31,7 @@ const Contents = (props) => (
                 </div>
                 <div className="private-content">
                     {/* <Route path="/" component={Placeholder} /> */}
-                    <Route path="/" component={About} />
+                    <Route path="/about" component={About} />
                     <Route path="/skills" component={Skills} />
                     <Route path="/projects" component={Projects} />
                     <Route path="/interests" component={Interests} />

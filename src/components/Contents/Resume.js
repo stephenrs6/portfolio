@@ -10,10 +10,10 @@ import { Row, Col } from "react-materialize";
 // const userID = "5a8624f2fe9f971c5c565bb3";
 
 class Resume extends Component {
-    state = {
-        result: [],
-        search: ""
-    };
+    // state = {
+    //     result: [],
+    //     search: ""
+    // };
     // componentDidMount() {
     //     this.getBioData(userID);
     // };
@@ -26,9 +26,14 @@ class Resume extends Component {
     // };
     render() {
         return (
-            <div className="contact-list">
-                <p>resume</p>
-            </div >)
+            <div className="resume">
+                <object data="/assets/pdf/YaoTeStephenSungResume.pdf#view=Fit" type="application/pdf" width="80%" height="800px">
+                    <iframe src="/assets/pdf/YaoTeStephenSungResume.pdf#view=Fit" width="80%" height="800px">
+                        This browser does not support PDFs. Please download the PDF to view it.
+            <a href="/assets/pdf/YaoTeStephenSungResume.pdf#toolbar=0">Download PDF</a>
+                    </iframe>
+                </object>
+            </div>)
 
 
     }

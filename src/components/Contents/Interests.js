@@ -27,18 +27,18 @@ class Interests extends Component {
     // };
     render() {
         return (
-            <div className="potentials-list">
             <div className="container contents">
-                <h4>About Me:</h4>
-                <p className="flow-text">I am a technology enthusiast and creative problem solver who is currently immersed in the art of Web Development.
-                I utilize my knowledge of human-computer interactions to design User Interfaces that come intuitively for the end user.
-                I'm able to build complex websites with full database back-end all the way from mock-up to roll-out.
+                <h4>Interests:</h4>
+                <p className="flow-text">Apart from coding, I enjoy contributing and advocating for mental health issues. I take a lot of interest in Psychology and neuroscience.
+                Mental health is just as important as physical health, and I feel I have a good grasp on the fundamentals of the human condition.
+                Understanding what motivates an individual to get up in the morning and pursue his dream allows me to ensure that my team adapts to each other, and runs like a cohesive unit.
                     <br></br>
                     <br></br>
-                I have recently completed UC San Diego Extension's Full Stack Web Development program and aim to obtain a junior Web Developer position.
-                I obtained my Bachelor's in Psychology from UC San Diego, making me a dynamic collaborator knowledgable of the human condition, and adept at working in diverse teams.
-                I'm also proficient in Mandarin Chinese at a native speaker level.</p>
-            </div>
+                    Speaking of communities -- as a hobby, I have experience in fostering multiple positive online video-game communities, consisting of 10 ~ 50 members, across various game titles.
+                    <br></br>
+                    <br></br>
+                
+                </p>
             </div>
             )
 

@@ -14,3 +14,11 @@
 {
     padding-left: 8px;
 }
+
+ul {
+    text-align: center;
+    margin: auto;
+    width: auto;
+    font-size: 16px;
+    color: #e0e0e0;
+}

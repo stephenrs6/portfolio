@@ -34,11 +34,11 @@ class Interests extends Component {
                 Understanding what motivates an individual to get up in the morning and pursue his dream allows me to ensure that my team adapts to each other, and runs like a cohesive unit.
                     <br></br>
                     <br></br>
-                    Speaking of communities -- as a hobby, I have experience in fostering multiple positive online video-game communities, consisting of 10 ~ 50 members, across various game titles.
+                    Speaking of communities -- as a hobby, I have experience in fostering multiple positive online video-game communities, consisting of 10 ~ 50 members, across various game titles. This has given me advantages when put in a managerial role.
                     <br></br>
                     <br></br>
-                    I believe I am able to do this because of my background -- growing up I had lived on 3 different continents. I'm a global citizen with an open mind, aware of the many varying traits and characteristics of different cultures.
-                    I make it an emphasis to be both book-smart and street-smart, so to achieve this duality -- in addition to being an avid reader -- I have travelled to many countries to gain insight on the world.
+                    I attribute most of my versatility to my background, having lived on 3 different continents growing up. I'm a global citizen with an open mind, aware of the many varying traits and characteristics of different cultures.
+                    I make it an emphasis of my life to be both book-smart and street-smart, so to achieve this duality -- in addition to being an avid reader -- I have travelled to many different countries to gain insight on the world.
                 </p>
             </div>
             )

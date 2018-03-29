@@ -26,11 +26,15 @@ class Skills extends Component {
                 <br></br>
                 <h4>Workflow:</h4>
                 <ul>
-                    <li>Mobile-First, Responsive Design</li>
-                    <li>Cross-browser testing &amp; Debugging</li>
-                    <li>Self-organized Cross Functional Teams</li>
-                    <li>Agile Development &amp; Scrum Methodologies</li>
+                    <li>- Agile Development &amp; Scrum Methodologies</li>
+                    <br></br>
+                    <li>- Self-organized Cross Functional Teams</li>
+                    <br></br>
+                    <li>- Cross-browser testing &amp; Debugging</li>
+                    <br></br>
+                    <li>- Mobile-First, Responsive Designs</li>                    
                 </ul>
+
 
             </div>
 

@@ -38,7 +38,7 @@ class Interests extends Component {
                     <br></br>
                     <br></br>
                     I attribute most of my versatility to my background, having lived on 3 different continents growing up. I'm a global citizen with an open mind, aware of the many varying traits and characteristics of different cultures.
-                    I make it an emphasis of my life to be both book-smart and street-smart, so to achieve this duality -- in addition to being an avid reader -- I have travelled to many different countries to gain insight on the world.
+                    I make it an emphasis of my life to be both book-smart and street-smart. To achieve this duality, in addition to being an avid reader, I have travelled to many different countries to gain insight on the world.
                 </p>
             </div>
             )

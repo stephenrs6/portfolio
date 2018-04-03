@@ -28,9 +28,20 @@ class Projects extends Component {
     // };
     render() {
         return (
-            <div className="result-list">
-                <p>Projects</p>
-            </div >
+            <div className="container contents">
+                <h4>Projects:</h4>
+                <h5 className="link"><a href="https://bharloe.github.io/Music-Event-Search/">Knofity</a></h5>
+                <a href="https://bharloe.github.io/Music-Event-Search/">
+                <img className="screenshot" src="/assets/images/Knotify.png" alt="App Screenshot"></img></a>
+                <p className="link"><a href="https://github.com/stephenrs6/Music-Event-Search">Github Link</a></p>
+                <p>A search engine for upcoming music events and concerts in your area. 
+                    Presents users with an interface that searches for and displays artists performing live in the area, 
+                    as well as similar artists. For each result, a visual graphic is shown in a carousel slideshow with show information such as date, time, location, and links to purchase tickets.                    <br></br>
+                    <br></br>
+                    I have recently completed UC San Diego Extension's Full Stack Web Development program and aim to obtain a junior Web Developer position.
+                    I obtained my Bachelor's in Psychology from UC San Diego, making me a dynamic collaborator knowledgable of the human condition, and adept at working in diverse teams.
+                I'm also proficient in Mandarin Chinese at a native speaker level.</p>
+            </div>
         )
     }
 }

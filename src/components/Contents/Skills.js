@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import "./Skills.css";
-// import API from "../../../utils/API";
-import { Row, Input, Button, Icon } from "react-materialize";
 
 class Skills extends Component {
     state = {

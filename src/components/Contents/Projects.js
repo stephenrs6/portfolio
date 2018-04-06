@@ -12,7 +12,7 @@ class Projects extends Component {
             <div className="container contents">
                 <h4>Projects:</h4>
                 <h5 className="link"><a href="https://bharloe.github.io/Music-Event-Search/">Knotify</a></h5>
-                <a href="https://bharloe.github.io/Music-Event-Search/"><img className="screenshot" src="/assets/images/Knotify.png" alt="App Screenshot"></img></a>
+                <a href="https://bharloe.github.io/Music-Event-Search/"><img className="screenshot" src="/assets/images/knotify.png" alt="App Screenshot"></img></a>
                 <p><a className="link" href="https://github.com/stephenrs6/Music-Event-Search">Github Link</a></p>
                 <p>A search engine for upcoming music events and concerts in your area.
                 Presents users with an interface that searches for and displays artists performing live in the area,

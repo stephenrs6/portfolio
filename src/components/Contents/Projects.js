@@ -11,7 +11,7 @@ class Projects extends Component {
         return (
             <div className="container contents">
                 <h4>Projects:</h4>
-                <h5 className="link"><a href="https://bharloe.github.io/Music-Event-Search/">Knotify</a></h5>
+                <h5 className="link"><a href="https://github.com/stephenrs6/Music-Event-Search">Knotify</a></h5>
                 <a href="https://bharloe.github.io/Music-Event-Search/"><img className="screenshot" src="/assets/images/knotify.png" alt="App Screenshot"></img></a>
                 <p><a className="link" href="https://github.com/stephenrs6/Music-Event-Search">Github Link</a></p>
                 <p>A search engine for upcoming music events and concerts in your area.
@@ -43,7 +43,12 @@ class Projects extends Component {
                 <a href="https://stephenrs6.github.io/Trivia-Game"><img className="screenshot" src="/assets/images/trivia.png" alt="App Screenshot"></img></a>
                 <p className="link"><a href="https://github.com/stephenrs6/Trivia-Game">Github Link</a></p>
                 <p>A simple Geography Trivia game using JavaScript for the logic and jQuery to manipulate HTML.</p>
+                <br></br>
+                <br></br>
+                <h5 className="link"><a href="https://yts-portfolio.herokuapp.com">This Website</a></h5>
                 
+                <p className="link"><a href="https://github.com/stephenrs6/portfolio">Github Link</a></p>
+                <p>Reactjs portfolio</p>
             </div>
         )
     }

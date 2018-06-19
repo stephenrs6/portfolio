@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./Resume.css";
+import "./Contents.css";
 
 class Resume extends Component {
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./About.css";
+import "./Contents.css";
 
 
 class About extends Component {
@@ -15,7 +15,8 @@ class About extends Component {
                     <br></br>
                 I have recently completed UC San Diego Extension's Full Stack Web Development program and aim to obtain a junior Web Developer position.
                 I obtained my Bachelor's in Psychology from UC San Diego, making me a dynamic collaborator knowledgable of the human condition, and adept at working in diverse teams.
-                I'm also proficient in Mandarin Chinese at a native speaker level.</p>
+                I'm also proficient in Mandarin Chinese at a native speaker level.
+                Code me a river.</p>
             </div>
         )
 

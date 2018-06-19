@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./Projects.css";
+import "./Contents.css";
 
 class Projects extends Component {
     state = {

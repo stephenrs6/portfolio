@@ -1,6 +1,3 @@
-/* #contents {
-    clear: both;			
-  } */
 .flow-text{
     font-size: 16px;
     color: #e0e0e0;
@@ -28,5 +25,53 @@ a {
 .navbar {
     margin: auto;
     width: 50%;
+    text-align: center;
+}
+
+.container .row{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+h5 {
+    color: #e0e0e0;
+}
+
+img {
+    width: 5%;
+    height: auto;
+  }
+.link {
+    text-decoration: underline;
+  }
+
+.screenshot {
+    width: 50%;
+    height: auto;
+  }
+
+  .devicons {
+    text-align: center;
+    margin: auto;
+    width: auto;
+    font-size: 6em;
+}
+
+.devicon-nodejs-plain-wordmark.colored
+{
+    padding-left: 8px;
+}
+
+ul {
+    text-align: center;
+    padding-bottom: 50px;
+    margin: auto;
+    width: auto;
+    font-size: 20px;
+    color: #e0e0e0;
+}
+
+.resume {
+    margin: auto;
     text-align: center;
 }
